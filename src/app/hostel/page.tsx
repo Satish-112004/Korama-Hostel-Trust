@@ -139,7 +139,7 @@ export default function HostelPage() {
 
           <div className="bg-gradient-to-r from-trust-900 to-growth-950 p-6 sm:p-8 rounded-2xl text-center text-white border border-amber-400/20 max-w-2xl mx-auto shadow-md">
             <p className="text-sm sm:text-base font-semibold text-amber-200 italic">
-              "{hostelData.whyEstablished.closingQuote}"
+              &ldquo;{hostelData.whyEstablished.closingQuote}&rdquo;
             </p>
           </div>
         </div>
@@ -156,7 +156,7 @@ export default function HostelPage() {
               Our Vision & Objectives
             </h2>
             <p className="text-sm text-slate-700 leading-relaxed font-medium">
-              "{hostelData.visionAndObjectives.vision}"
+              &ldquo;{hostelData.visionAndObjectives.vision}&rdquo;
             </p>
           </div>
 
@@ -173,7 +173,7 @@ export default function HostelPage() {
           </div>
 
           <p className="text-center text-xs text-slate-500 italic max-w-xl mx-auto">
-            "{hostelData.visionAndObjectives.closingMessage}"
+            &ldquo;{hostelData.visionAndObjectives.closingMessage}&rdquo;
           </p>
         </div>
       </section>
@@ -256,10 +256,10 @@ export default function HostelPage() {
             Hostel Motto
           </span>
           <blockquote className="text-xl sm:text-2xl font-extrabold text-amber-200 leading-snug">
-            "{hostelData.mottos.primary}"
+            &ldquo;{hostelData.mottos.primary}&rdquo;
           </blockquote>
           <p className="text-xs text-slate-400">
-            Selected motto representing Korama Hostel Trust's commitment to individual empowerment and community progress.
+            Selected motto representing Korama Hostel Trust&apos;s commitment to individual empowerment and community progress.
           </p>
         </div>
       </section>

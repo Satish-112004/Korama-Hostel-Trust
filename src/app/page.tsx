@@ -127,7 +127,7 @@ export default function HomePage() {
 
                   <div className="bg-gradient-to-r from-trust-900 to-growth-950 p-4 rounded-xl border border-amber-400/20 text-center">
                     <p className="text-xs text-amber-200 font-medium italic">
-                      "{siteConfig.mottos.primary}"
+                      &ldquo;{siteConfig.mottos.primary}&rdquo;
                     </p>
                   </div>
                 </div>
@@ -248,7 +248,7 @@ export default function HomePage() {
               What would you like to explore?
             </h2>
             <p className="text-sm text-slate-600 mt-2">
-              Direct access to all verified areas of Korama Hostel Trust's digital information ecosystem.
+              Direct access to all verified areas of Korama Hostel Trust&apos;s digital information ecosystem.
             </p>
           </div>
 

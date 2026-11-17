@@ -6,7 +6,8 @@ interface DynamicIconProps extends Icons.LucideProps {
 }
 
 export function DynamicIcon({ name, ...props }: DynamicIconProps) {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const IconComponent = (Icons as any)[name] || Icons.HelpCircle;
+  const IconComponent =
+    (Icons as unknown as Record<string, React.ComponentType<Icons.LucideProps>>)[name] ||
+    Icons.HelpCircle;
   return <IconComponent {...props} />;
 }

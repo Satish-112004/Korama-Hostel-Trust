@@ -62,7 +62,7 @@ export default function CommunityPage() {
                   Koram Hostel is a home for students belonging to the Korama, Koracha, and Korava communities. Our hostel is more than just a place to stay—it is a family that supports education, unity, culture, and personal growth.
                 </p>
                 <p>
-                  Our community has a rich cultural heritage, a long history of traditional skills, and a strong spirit of resilience. While preserving our traditions, today's generation is making remarkable progress in education, technology, business, government service, and many other professions.
+                  Our community has a rich cultural heritage, a long history of traditional skills, and a strong spirit of resilience. While preserving our traditions, today&apos;s generation is making remarkable progress in education, technology, business, government service, and many other professions.
                 </p>
                 <p className="font-semibold text-trust-900">
                   We take pride in our identity, our culture, and our commitment to building a brighter future.
@@ -289,7 +289,7 @@ export default function CommunityPage() {
           </div>
 
           <p className="text-center text-xs text-slate-400 italic">
-            "Education transforms individuals, builds confidence, and creates a brighter future for generations to come."
+            &ldquo;Education transforms individuals, builds confidence, and creates a brighter future for generations to come.&rdquo;
           </p>
         </div>
       </section>

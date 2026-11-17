@@ -38,7 +38,7 @@ export default function FaqPage() {
           <div className="mt-12 bg-white rounded-2xl border border-slate-200 p-6 sm:p-8 flex flex-col sm:flex-row items-center justify-between gap-6 shadow-sm">
             <div>
               <h3 className="text-base font-bold text-slate-900">
-                Didn't find the answer you need?
+                Didn&apos;t find the answer you need?
               </h3>
               <p className="text-xs sm:text-sm text-slate-600 mt-1">
                 Our management team is happy to assist you directly with specific admission enquiries or parent visits.
