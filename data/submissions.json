@@ -1,0 +1,22 @@
+[
+  {
+    "id": "KHT-MWKZ1LRV-IXFY",
+    "name": "Suresh Kumar",
+    "email": "suresh@example.com",
+    "phone": "+91 9876543210",
+    "subject": "MCA Admission Inquiry 2026",
+    "message": "Hello Trust Management, I am an MCA student from Hassan district seeking accommodation in Bengaluru.",
+    "createdAt": "2026-11-17T17:33:49.819Z",
+    "status": "unread"
+  },
+  {
+    "id": "KHT-MWKZ1LRF-AA5Q",
+    "name": "Suresh Kumar",
+    "email": "suresh@example.com",
+    "phone": "+91 9876543210",
+    "subject": "MCA Admission Inquiry 2026",
+    "message": "Hello Trust Management, I am an MCA student from Hassan district seeking accommodation in Bengaluru.",
+    "createdAt": "2026-11-17T17:33:49.803Z",
+    "status": "unread"
+  }
+]
